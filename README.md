@@ -5,7 +5,8 @@
 
 This project uses Multiple Linear Regression to predict the Performance Index of students based on several academic and lifestyle factors. The dataset contains 10,000 rows and 6 columns, cleaned and prepared for modeling.
 
-Problem Statement
+Problem Statement:
+
 We aim to predict the Performance Index using the following features:
 1. 	Hours Studied
 2. 	Previous Scores
@@ -44,7 +45,7 @@ Steps Followed
         - R² Score
 
 Results
-  - Previous Scores are the most influential factor.  
+  - Previous Scores is the most influential factor.  
   - Hours Studied also contributes significantly.  
   - Extracurricular Activities have minimal impact.  
   - The model achieves high accuracy with R² ≈ 0.98.  
