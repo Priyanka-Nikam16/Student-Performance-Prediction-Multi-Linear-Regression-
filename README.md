@@ -1,6 +1,8 @@
 
-Student Performance Prediction (Multi Linear Regression)
- Overview
+**Student Performance Prediction (Multi Linear Regression)**
+ 
+**Overview**
+
 This project uses Multiple Linear Regression to predict the Performance Index of students based on several academic and lifestyle factors. The dataset contains 10,000 rows and 6 columns, cleaned and prepared for modeling.
 
 Problem Statement
